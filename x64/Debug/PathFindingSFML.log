@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Users\POEI\source\repos\PathFindingSFML\PathFindingSFML\main.cpp(81,81): warning C4244: 'argument' : conversion de 'double' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\POEI\source\repos\PathFindingSFML\PathFindingSFML\main.cpp(81,57): warning C4244: 'argument' : conversion de 'double' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\POEI\source\repos\PathFindingSFML\PathFindingSFML\main.cpp(103,85): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\POEI\source\repos\PathFindingSFML\PathFindingSFML\main.cpp(103,63): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+  PathFindingSFML.vcxproj -> C:\Users\POEI\source\repos\PathFindingSFML\x64\Debug\PathFindingSFML.exe
